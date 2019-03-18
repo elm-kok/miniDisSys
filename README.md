@@ -2,7 +2,7 @@
 Mimi distributed system project 
 
 #Done:
-Join Group - total ordering - 
+- Join Group - total ordering - 
 
 #Todo:
 - Leave Group 
